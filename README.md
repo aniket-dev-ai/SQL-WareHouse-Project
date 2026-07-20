@@ -124,6 +124,8 @@ Contains:
 - Reporting queries
 
 ![Data Model](./SQL/data_model.png)
+
+- [Complete GOLD Documentation](./SQL/3.%20Gold%20%20Layer/data_catalog.md)
 ---
 
 # 📈 Business KPIs
